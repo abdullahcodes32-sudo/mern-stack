@@ -1,0 +1,38 @@
+1-Div element
+     Container tag hota hai jo bada section banane ke kaam aata hai.
+
+     Layout banate waqt sabse zyada use hota hai.
+
+     Block-level element hota hai → poori line occupy karta hai.
+
+     Iske andar headings, paragraphs, images, forms sab rakh sakte ho.
+2-Span element
+     Chhota container hota hai, inline element.
+
+     Sirf jitni jagah content ho utni jagah leta hai, poori line occupy nahi karta.     
+3-Sup&Sub Tags
+
+     Example: Mathematics main powers → X² (2 superscript hota hai).
+
+     Chemistry main formulas likhne ke kaam aata hai → H₂O (2 subscript hota hai).
+
+
+4-Semantic Tags
+     
+     Semantic ka matlab: naam dekh kar hi samajh aa jaye ki tag ka kya role hai.
+
+     <header> → Page ka top part (logo, nav bar, title).
+
+     <footer> → Page ka bottom part (copyright, links).
+
+     <nav> → Navigation menu ke liye.
+
+     <main> → Page ka main content.
+
+     <section> → Content ko logical sections main divide karne ke liye.
+
+     <article> → Independent content (blog post, news, card).
+
+     <aside> → Side content like sidebar, ads.
+
+     <figure> & <figcaption> → Image + caption ke liye.     
